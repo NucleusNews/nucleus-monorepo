@@ -7,11 +7,25 @@ cd nucleus
 npm install
 ```
 
-## Environment Variables (Server)
+## Environment Variables 
 
 ```bash
 cp apps/server/.env.example apps/server/.env
 ```
+
+```bash
+cp apps/fetcher/.env.example apps/fetcher/.env
+```
+
+```bash
+cp apps/processor/.env.example apps/processor/.env
+```
+
+```bash
+cp apps/synthesizer/.env.example apps/synthesizer/.env
+```
+
+
 
 ## Running (Development)
 
