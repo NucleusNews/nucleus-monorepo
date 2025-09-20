@@ -1,0 +1,7 @@
+upstash-redis
+pymongo[srv]
+python-dotenv
+scikit-learn
+numpy
+google-generativeai
+certifi

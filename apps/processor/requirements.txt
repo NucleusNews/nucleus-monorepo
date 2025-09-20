@@ -1,0 +1,6 @@
+upstash-redis
+pymongo[srv]
+python-dotenv
+sentence-transformers
+torch
+certifi
